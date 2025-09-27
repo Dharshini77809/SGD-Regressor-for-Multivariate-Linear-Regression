@@ -119,12 +119,8 @@ for actual, predicted in zip(y_test, y_pred):
 */
 ```
 
-## Output:
-```
-
+## Output
 <img width="417" height="132" alt="image" src="https://github.com/user-attachments/assets/72e0d6c3-e189-43d9-98c2-c277efef96d6" />
-
-```
 
 
 ## Result:
